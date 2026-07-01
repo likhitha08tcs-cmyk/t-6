@@ -1,4 +1,0 @@
-fastapi==0.110.0
-reqests==2.31.0
-pytest123
-numpyy==1.24.0
